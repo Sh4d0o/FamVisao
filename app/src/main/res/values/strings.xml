@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">FamVisao</string>
+    <string name="title_activity_navegation">NavegationActivity</string>
+    <string name="title_activity_layout2">Layout2Activity</string>
+    <string name="title_left">Calendário</string>
+    <string name="title_center">Menu Principal</string>
+    <string name="title_right">Tarefas</string>
+    <string name="btn_criar_text">Submeter Evento</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_about">Info</string>
+
+    <string-array name="event_types_array">
+        <item>Romaria</item>
+        <item>Concerto</item>
+        <item>Festival</item>
+        <item>Inauguracão</item>
+        <item>*outros*</item>
+    </string-array>
+
+    <string-array name="event_nature">
+        <item>Interno</item>
+        <item>Externo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

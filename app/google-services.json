@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898628705700",
+    "firebase_url": "https://famvisao-68410.firebaseio.com",
+    "project_id": "famvisao-68410",
+    "storage_bucket": "famvisao-68410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898628705700:android:770ecefa8cd0dfa1",
+        "android_client_info": {
+          "package_name": "com.shadoapps.famvisao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898628705700-00950j778006uvaapmukjje3iruah97q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadoapps.famvisao",
+            "certificate_hash": "fc54e3a5e08b39e3a12f592244c25d21e633356a"
+          }
+        },
+        {
+          "client_id": "898628705700-4f0vplj599cc8aht4eiq0ta0rg9m2nss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVsJztpGDZ15Zu6RMXkoBr66VIf--agc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898628705700-4f0vplj599cc8aht4eiq0ta0rg9m2nss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
